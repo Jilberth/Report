@@ -1,6 +1,6 @@
 package com.acsele.report.service;
 
-import com.acsele.report.model.Customer;
+import com.acsele.report.jasper.bean.Customer;
 import org.springframework.stereotype.Service;
 
 import java.util.Arrays;

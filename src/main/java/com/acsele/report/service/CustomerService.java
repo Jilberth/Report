@@ -1,6 +1,6 @@
 package com.acsele.report.service;
 
-import com.acsele.report.model.Customer;
+import com.acsele.report.jasper.bean.Customer;
 
 import java.util.List;
 

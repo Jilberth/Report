@@ -1,4 +1,4 @@
-package com.acsele.report.model;
+package com.acsele.report.jasper.bean;
 
 public class Customer {
     private Integer id;
